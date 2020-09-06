@@ -69,3 +69,4 @@ _It facilitates the doctors in:_
 * npm install the required dependencies.
 * Run command: nodemon index.js
 * Go to https://localhost/3000
+* Keep the Postman App handy.
