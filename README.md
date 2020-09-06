@@ -12,7 +12,7 @@ This API is for the doctors of a Hospital which has been allocated by the govt f
    
 ## Tasks Performs
 _It facilitates the doctors in:_ 
-* in their authentication.
+* in their authentication(done by JWT).
 * patients registration.
 * creating patients reports.
 * fetching all reports of a particular patient.
